@@ -1,0 +1,22 @@
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\Practical 3 C#\Sliding Game\Sliding Game\bin\Debug\Sliding Game.exe.config
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\Practical 3 C#\Sliding Game\Sliding Game\bin\Debug\Sliding Game.exe
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\Practical 3 C#\Sliding Game\Sliding Game\bin\Debug\Sliding Game.pdb
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding Game.csprojAssemblyReference.cache
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding_Game.StartScreen.resources
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding_Game.Properties.Resources.resources
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding Game.csproj.GenerateResource.cache
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding Game.csproj.CoreCompileInputs.cache
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding Game.exe
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding Game.pdb
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding_Game.GameScreen.resources
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\AI Practical 3 C#\Sliding Game\Sliding Game\bin\Debug\Sliding Game.exe.config
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\AI Practical 3 C#\Sliding Game\Sliding Game\bin\Debug\Sliding Game.exe
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\AI Practical 3 C#\Sliding Game\Sliding Game\bin\Debug\Sliding Game.pdb
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\AI Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding Game.csprojAssemblyReference.cache
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\AI Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding_Game.GameScreen.resources
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\AI Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding_Game.StartScreen.resources
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\AI Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding_Game.Properties.Resources.resources
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\AI Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding Game.csproj.GenerateResource.cache
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\AI Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding Game.csproj.CoreCompileInputs.cache
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\AI Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding Game.exe
+C:\Users\Hennie\Desktop\NWU\JAAR 6\SEMESTER 1\CMPG 313 - AI\AI Practical 3 C#\Sliding Game\Sliding Game\obj\Debug\Sliding Game.pdb
